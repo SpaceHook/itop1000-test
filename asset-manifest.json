@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/itop1000-test/static/css/main.a7fbffb8.css",
+    "main.js": "/itop1000-test/static/js/main.1854b4c1.js",
+    "static/media/text_logo.svg": "/itop1000-test/static/media/text_logo.52f0a46cf7e411c4e9fa.svg",
+    "index.html": "/itop1000-test/index.html",
+    "main.a7fbffb8.css.map": "/itop1000-test/static/css/main.a7fbffb8.css.map",
+    "main.1854b4c1.js.map": "/itop1000-test/static/js/main.1854b4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7fbffb8.css",
+    "static/js/main.1854b4c1.js"
+  ]
+}
