@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #2d2c2c;
+
+  &__courses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__currency {
+    transition: 300ms;
+
+    &:hover {
+      cursor: pointer;
+      color: #f31d42;
+    }
+  }
+}
